@@ -1,0 +1,45 @@
+.body
+.formal{
+    background-image:url('img/pexels-photo-1011329.jpg');
+    background-size:cover ;
+    background-color:rgba(0, 0, 0, 0.7);
+    background-blend-mode: overlay;
+    padding-left:10px;
+}
+.text{
+    color: white;
+    margin-top: 50px;
+    margin-left: 30px;
+}
+.footer{
+    background-color: white;
+}
+.circular-image {
+    width: 40px;
+    height: 40px;
+}
+.centralize {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+.pad-footer {
+    padding-bottom: 30px;
+    padding-top: 30px;
+}
+.my-img {
+    display: flex;
+    align-items: center;
+    border-color:gray;
+    border-radius:  50%;
+    border-style: solid;
+    border-width: 1px;
+    justify-content: center;
+    width: 80px;
+    height: 80px;
+}
+.copy-right{
+ background-color:black;
+ color:white
+}
